@@ -1,0 +1,6 @@
+# Flutter
+.dart_tool/
+build/
+.packages
+.pub-cache/
+local.properties
